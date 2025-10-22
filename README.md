@@ -1,3 +1,4 @@
+Hey, I'm Waweru Scholar
 # 💫 About Me:
 I'm am a passionate front-end Developer and aspiring full stack Developer
 
